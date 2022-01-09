@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saar120/node-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saar120/node-learning/issues"
+  },
+  "homepage": "https://github.com/saar120/node-learning#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0"
+  }
+}
