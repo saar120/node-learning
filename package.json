@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/saar120/node-learning#readme",
   "dependencies": {
+    "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "uniqid": "^5.4.0",
     "validator": "^13.7.0",
